@@ -1,0 +1,8 @@
+.astroid-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.astroid-name {
+  margin-right: 1rem;
+}
